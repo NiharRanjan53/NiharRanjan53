@@ -25,7 +25,7 @@
 - 📫 How to reach me **niharranjanrout53@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nihar-ranjan-rout-191905180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-deep-kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nihar-ranjan-rout-191905180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niharranjan53" height="30" width="40" /></a>
 <a href="https://twitter.com/niharranjan53" target="blank"><img align="center" src="https://res.cloudinary.com/duuidz8kh/image/upload/v1664654662/Github/twitter_xykuxp.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niharranjanrout1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niharranjanrout1" height="30" width="40" /></a>
 <a href="https://leetcode.com/niharranjan_53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niharranjan_53" height="30" width="40" /></a>
